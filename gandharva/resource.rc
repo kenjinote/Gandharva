@@ -1,0 +1,5 @@
+#include "resource.h"
+
+ID_APPICON		ICON	"appicon.ico"
+ID_TOOLBARBMP	BITMAP	"toolbar.bmp"
+

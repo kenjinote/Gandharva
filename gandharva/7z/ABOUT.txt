@@ -1,0 +1,6 @@
+Files under this directory are extracts from LZMA SDK.
+   (en: http://www.7-zip.org/sdk.html
+    jp: http://sevenzip.sourceforge.jp/sdk.html )
+
+The SDK is declared by its hearty developers to be of the public domain.
+Only those files necessary to gandharva are retained here.
